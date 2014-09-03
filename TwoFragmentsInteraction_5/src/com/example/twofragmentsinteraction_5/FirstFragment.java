@@ -39,7 +39,7 @@ public class FirstFragment extends Fragment {
 }
 
 
-	//interface is crated
+	//interface is created
 interface LoadSecondFragment{
 	void go(); // method go() is called
 }
